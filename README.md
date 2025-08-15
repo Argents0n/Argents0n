@@ -53,8 +53,3 @@
 [Ссылка на репозиторий с проектами](https://github.com/Argents0n/YandexPracticumProjects)  
 
 ---
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Argents0n&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Argents0n&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Argents0n&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)

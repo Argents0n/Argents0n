@@ -52,5 +52,5 @@
 - Проекты с курса в Яндекс Практикум на анализ данных - [Репозиторий](https://github.com/Argents0n/Yandex_DataScience/tree/main/data_analytics)
 - Проекты с курса в Яндекс Практикум на машинное обучение - [Репозиторий](https://github.com/Argents0n/Yandex_DataScience/tree/main/ML)
 - Учебный проект "Аппроксимация функции методом наименьших квадратов" - [Репозиторий](https://github.com/Argents0n/Coursework_3rdSem)
-- Проект с производственной практики на АО Равенство - СКУД, основанная на видеонаблюдении с распознаванием лиц[Репозиторий](https://github.com/Argents0n/Facial_access_control---FAC)
+- Проект с производственной практики на АО Равенство - СКУД, основанная на видеонаблюдении с распознаванием лиц - [Репозиторий](https://github.com/Argents0n/Facial_access_control---FAC)
 ---
